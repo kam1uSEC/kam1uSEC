@@ -4,7 +4,7 @@
 
 - GitHub: [https://www.github.com/kam1uSEC](https://www.github.com/kam1uSEC)
 - 🇺🇳 CTFer 
-- 📧 Email: Z1RP@protonmail.com
+- 📧 Email: kam1u@outlook.com
 
 
 
