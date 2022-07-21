@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm katmaner<img align="right" src="https://github-readme-stats.vercel.app/api?username=kam1usec&show_icons=true&theme=radical">
 
-![GitHub followers](https://img.shields.io/github/followers/kam1usec?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/kam1usec?style=social)
+![GitHub followers](https://img.shields.io/github/followers/kam1uSEC?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/kam1uSEC?style=social)
 
 - GitHub: [https://www.github.com/kam1usec](https://www.github.com/kam1usec)
 - 🇺🇳 CTFer 
